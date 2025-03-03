@@ -20,7 +20,7 @@ class LensDesignEnv(Env):
         self.reward = reward
 
         # Constants for the environment - TODO: Move to config file
-        max_lenses = 1
+        max_lenses = 2
         lens_feature_size = 6
         system_feature_size = 4
         max_optim_actions = 3
