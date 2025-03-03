@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## Examples
 
-[A minimal working example can be found here](https://github.com/HarrisonKramer/LensRL/examples/minimum_working_example.ipynb). More notebooks will be added as development continues.
+[A minimal working example can be found here](https://github.com/HarrisonKramer/LensRL/blob/main/examples/minimum_working_example.ipynb). More notebooks will be added as development continues.
 
 ## Contributing
 
